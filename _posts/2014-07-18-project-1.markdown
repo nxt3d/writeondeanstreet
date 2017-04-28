@@ -1,15 +1,15 @@
 ---
-title: Dreams
-subtitle: Website Design
+title: Pinpoint 
+subtitle: Greg Milner
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: dreams.png
-thumbnail: dreams-thumbnail.png
+img: pinpoint.png
+thumbnail: pinpoint.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+project-date: June 17th 2016
+client: W. W. Norton & Company 
+category: Book
+description: In the tradition of The Information and The Shallows, Pinpoint tells the story of GPS and how it is affecting our brains, our technology, and our culture. <a href="http://www.goodreads.com/book/show/26530305-pinpoint">...more</a>
 
 ---

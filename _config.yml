@@ -6,11 +6,14 @@ title: Write on Dean Street
 email: fm@fmwriting.com
 description: "A writing space in Prospects Heights, Brooklyn"
 
+homepage: 
+- main1: Prospect Heights, Brooklyn
+  main2: A Writers Space
 
 # Team names, titles and social links
 people:
 - name: Fayre Makeig
-  pic: 1
+  pic: fayre
   position: Director
   social:
     - title: twitter
